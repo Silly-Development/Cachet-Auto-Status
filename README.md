@@ -15,7 +15,7 @@ This script was made for our specific use case, so may not fit all needs out of 
 ## Requirements
 
 - Python 3.7+
-- Cachet instance with API access
+- Cachet instance with API access (Tested only on the v3 dev branch, v2 has not been tested and is unlikely to work)
 - Required packages: `httpx`
 
 ## Installation
